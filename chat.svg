@@ -303,7 +303,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="112.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Building web / mobile applications. Making memes</text>
-    <text x="15" y="50">and software. 👨‍💻 I enjoy creating content about</text>
+    <text x="15" y="50">and software. 🧑‍💻 I enjoy creating content about</text>
     <text x="15" y="73">web development, but I do also talk other topics</text>
     <text x="15" y="96">than coding.</text>
   </g>
@@ -378,6 +378,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 334)" class="msg-6">
     <rect width="245" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Thursday! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">Have a great day! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
